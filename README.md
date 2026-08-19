@@ -33,7 +33,7 @@ A blazing-fast code analytics tool that converts source code into comprehensive 
 
 ```bash
 brew tap LegationPro/zigzag
-brew install zigzag
+brew install legationpro/zigzag/zigzag
 ```
 
 ### Pre-built binaries
